@@ -1,0 +1,11 @@
+*.npy
+*.7z
+.DS_Store
+.DS_Store?
+train/
+test/
+*.data-00000-of-00001
+*.model
+*.meta
+*.index
+*.csv
